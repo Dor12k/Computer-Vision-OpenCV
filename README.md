@@ -1,4 +1,4 @@
-# OpenCV Project: Real-time Processing with Webcam in python 
+# In this project: OpenCV - Real-time Processing with Webcam in python 
 
 
 
