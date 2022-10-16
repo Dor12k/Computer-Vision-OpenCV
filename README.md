@@ -1,4 +1,4 @@
-# In this project: OpenCV - Real-time Processing with Webcam in python 
+# Project in OpenCV: Real-time Processing with Webcam in python 
 
 
 
